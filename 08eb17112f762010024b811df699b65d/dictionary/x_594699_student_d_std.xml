@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="std" max_length="40" name="x_594699_student_d_std" type="collection">
+        <element label="age" max_length="40" name="age" type="string"/>
+        <element label="id" max_length="40" name="id" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

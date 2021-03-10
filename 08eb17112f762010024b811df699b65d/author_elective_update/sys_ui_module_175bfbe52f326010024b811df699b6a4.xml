@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="details">5b5bfbe52f326010024b811df699b6a1</application>
+        <filter/>
+        <name>details</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_594699_student_d.details_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 06:22:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>175bfbe52f326010024b811df699b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>details</sys_name>
+        <sys_package display_value="student data" source="x_594699_student_d">08eb17112f762010024b811df699b65d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="student data">08eb17112f762010024b811df699b65d</sys_scope>
+        <sys_update_name>sys_ui_module_175bfbe52f326010024b811df699b6a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 06:22:32</sys_updated_on>
+        <table>x_594699_student_d_details</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="student data">08eb17112f762010024b811df699b65d</application>
+        <file_path/>
+        <instance_id>5cec4eccdbcf481449eac59705961926</instance_id>
+        <instance_name>dev100643</instance_name>
+        <name>sys_ui_module_175bfbe52f326010024b811df699b6a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="details">5b5bfbe52f326010024b811df699b6a1</application><filter/><name>details</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_594699_student_d.details_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-10 06:22:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>175bfbe52f326010024b811df699b6a4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>details</sys_name><sys_package display_value="student data" source="x_594699_student_d">08eb17112f762010024b811df699b65d</sys_package><sys_policy/><sys_scope display_value="student data">08eb17112f762010024b811df699b65d</sys_scope><sys_update_name>sys_ui_module_175bfbe52f326010024b811df699b6a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-10 06:22:32</sys_updated_on><table>x_594699_student_d_details</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1277318891</payload_hash>
+        <record_name>details</record_name>
+        <reverted_from/>
+        <source>00243fa12f326010024b811df699b60a</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 06:22:32</sys_created_on>
+        <sys_id>5f5bfbe52f326010024b811df699b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1781acd1beb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 06:22:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>975bfbe5d23260107306ccc160103aa6</update_guid>
+        <update_guid_history>975bfbe5d23260107306ccc160103aa6:1277318891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 06:34:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>08212d9135684855815e7ed6f6ae5d61</sys_id>
+        <sys_metadata>175bfbe52f326010024b811df699b6a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>details</sys_name>
+        <sys_package display_value="student data" source="x_594699_student_d">08eb17112f762010024b811df699b65d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="student data">08eb17112f762010024b811df699b65d</sys_scope>
+        <sys_scope_delete display_value="">0d3668688abd4862a4e385c24a536319</sys_scope_delete>
+        <sys_update_name>sys_ui_module_175bfbe52f326010024b811df699b6a4</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_175bfbe52f326010024b811df699b6a4">5f5bfbe52f326010024b811df699b6a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 06:34:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
